@@ -1,6 +1,6 @@
-### Hi I'm [Stéphane](github.com/sorieux) 👋
+### Hi there 👋
 
-My name is Stéphane. I'm a Data Engineer currently shaping the data landscape at a French bank. 
+My name is [Stéphane](github.com/sorieux). I'm a Data Engineer currently shaping the data landscape at a French bank. 
 
 While my day-to-day involves steering intricate data projects, I cherish every opportunity to dive deep into coding. Python is my go-to these days, but I occasionally dabble in frontend and Java as well.
 

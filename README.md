@@ -4,8 +4,7 @@ My name is [Stéphane](github.com/sorieux). I'm a Data Engineer currently shapin
 
 While my day-to-day involves steering intricate data projects, I cherish every opportunity to dive deep into coding. Python is my go-to these days, but I occasionally dabble in frontend and Java as well.
 
-
-Should you wish to discuss, collaborate, or simply chat, please DM me on [LinkedIn](https://www.linkedin.com/in/stephane-orieux/) 📬
+If you want to chat or collaborate, the best way to reach me is to DM me on [LinkedIn](https://www.linkedin.com/in/stephane-orieux/) 📬
 
 
 <!--

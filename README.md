@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm [Stéphane](github.com/sorieux) 👋
+
+I'm Stéphane, a data engineer currently working for a French bank.
+
+When I'm not diving deep into data projects, I love coding away! Python is my go-to these days, but I also dabble in frontend stuff and some Java ☕️.
+
+If you want to chat or collaborate, the best way to reach me is to DM me on [LinkedIn](your_linkedin_profile_url)! 📬
 
 <!--
 **sorieux/sorieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
